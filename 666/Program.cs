@@ -14,7 +14,6 @@ namespace ConsoleApp32
 {
     internal class Program
     {
-        //C:\Users\User\OneDrive\Рабочий стол\rere.txt
         public string path;
         public string fileType;
         public int objectsAmount = 0;
